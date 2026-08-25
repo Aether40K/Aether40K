@@ -101,6 +101,7 @@
 <a href="https://www.github.com/Aether40K" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 <a href="https://discord.com/users/orion_i22" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a>
 <a href="https://www.facebook.com/mr.dolasak" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/></a>
+<a href="https://www.instagram.com/mr.dolasak/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
 <a href="https://www.youtube.com/@user-orion122" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/></a>
 <a href="https://www.twitch.tv/orionch122" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white"/></a>
 </p>
