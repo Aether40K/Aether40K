@@ -208,27 +208,27 @@
 
 <!-- การ์ด Profile Details — แสดง contribution timeline เต็มความกว้าง -->
 <!-- ใช้ github-profile-summary-cards ซึ่ง verified ว่าใช้งานได้ -->
-<!-- theme=github_dark : ธีมสีเข้มให้เข้ากับโปรไฟล์             -->
+<!-- theme=radical : ธีมสีเข้มให้เข้ากับโปรไฟล์             -->
 <!-- width=98% : เกือบเต็มความกว้าง (เว้น margin ให้หน้าดูโล่ง)  -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aether40K&amp;theme=github_dark" alt="Profile Details" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aether40K&amp;theme=radical" alt="Profile Details" width="98%"/>
 </p>
 
 <!-- แถวที่ 1: Stats + Repos Per Language (2 การ์ดเคียงกัน 48%+48%) -->
 <!-- การใช้ 48% แทน 50% เพื่อเว้นช่องว่างเล็กน้อยระหว่างการ์ด  -->
 <p align="center">
 <!-- การ์ด Stats — แสดงยอด commits, PRs, issues, stars รวม      -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aether40K&amp;theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aether40K&amp;theme=radical" width="48%"/>
 <!-- การ์ด Repos Per Language — แสดงสัดส่วนภาษาจาก repo ทั้งหมด -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aether40K&amp;theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aether40K&amp;theme=radical" width="48%"/>
 </p>
 
 <!-- แถวที่ 2: Most Commit Language + Productive Time (2 การ์ด) -->
 <p align="center">
 <!-- การ์ด Most Commit Language — ภาษาที่ใช้ commit มากที่สุด  -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aether40K&amp;theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aether40K&amp;theme=radical" width="48%"/>
 <!-- การ์ด Productive Time — ช่วงเวลาที่ active บน GitHub มากสุด -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aether40K&amp;theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aether40K&amp;theme=radical" width="48%"/>
 </p>
 
 <!-- กราฟ Contribution Chart ประจำปี (ghchart.rshah.org)         -->
