@@ -39,18 +39,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=b91c1c&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+the+future%2C+one+commit+at+a+time.;PHP+%7C+JavaScript+%7C+TypeScript+%7C+Python;React+%7C+Vue+%7C+Node.js+%7C+.NET;Docker+%7C+PostgreSQL+%7C+Linux;Never+stop+learning.+Never+stop+building." alt="Typing SVG"/>
 </p>
 
-<!-- ===== BADGES แถวบน (Profile Views, Followers, Twitch) ===== -->
+<!-- ===== BADGES แถวบน: Profile Views, Followers, Twitch (badge ต้องไม่มี comment หรือบรรทัดว่างแทรกกลาง จะทำให้เบี้ยว) ===== -->
 <p align="center">
-  <!-- Badge นับจำนวนคนที่เข้าชมโปรไฟล์ (komarev.com)           -->
-  <!-- style=for-the-badge : รูปแบบ badge ขนาดใหญ่              -->
-  <!-- labelColor=0d1117   : สีพื้นหลังส่วน label (ดำเกือบดำ)   -->
-  <img src="https://komarev.com/ghpvc/?username=Aether40K&amp;style=for-the-badge&amp;color=b91c1c&amp;labelColor=0d1117&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
-
-  <!-- Badge แสดงจำนวน Followers บน GitHub พร้อม link คลิกได้  -->
-  <a href="https://www.github.com/Aether40K"><img src="https://img.shields.io/github/followers/Aether40K?logo=github&amp;style=for-the-badge&amp;color=b91c1c&amp;labelColor=0d1117" alt="GitHub followers"/></a>
-
-  <!-- Badge แสดงสถานะ Twitch (Online/Offline) พร้อม link       -->
-  <a href="https://www.twitch.tv/orionch122"><img src="https://img.shields.io/twitch/status/orionch122?logo=twitch&amp;style=for-the-badge&amp;color=b91c1c&amp;labelColor=0d1117&amp;label=TWITCH" alt="Twitch status"/></a>
+<img src="https://komarev.com/ghpvc/?username=Aether40K&amp;style=for-the-badge&amp;color=b91c1c&amp;labelColor=0d1117&amp;label=PROFILE+VIEWS" alt="Profile Views"/><!-- badge นับจำนวนคนที่เข้าชมโปรไฟล์ (komarev.com) -->
+<a href="https://www.github.com/Aether40K"><img src="https://img.shields.io/github/followers/Aether40K?logo=github&amp;style=for-the-badge&amp;color=b91c1c&amp;labelColor=0d1117" alt="GitHub followers"/></a><!-- badge แสดงจำนวน Followers บน GitHub -->
+<a href="https://www.twitch.tv/orionch122"><img src="https://img.shields.io/twitch/status/orionch122?logo=twitch&amp;style=for-the-badge&amp;color=b91c1c&amp;labelColor=0d1117&amp;label=TWITCH" alt="Twitch status"/></a><!-- badge สถานะ Twitch (Online/Offline) -->
 </p>
 
 <!-- ===== เส้นคั่น ===== -->
