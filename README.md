@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b91c1c&height=220&text=AETHER40K&fontSize=60&fontColor=ffffff&desc=Fullstack%20Developer%20%26%20Creator&descAlign=50&descAlignY=75&descSize=20&descColor=cccccc&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b91c1c&height=220&text=AETHER40K&fontSize=60&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20Creator&descAlign=50&descAlignY=75&descSize=20&descColor=cccccc&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=b91c1c&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+the+future%2C+one+commit+at+a+time.;PHP+%7C+JavaScript+%7C+TypeScript+%7C+Python;React+%7C+Vue+%7C+Node.js+%7C+.NET;Docker+%7C+PostgreSQL+%7C+Linux;Never+stop+learning.+Never+stop+building." alt="Typing SVG"/>
