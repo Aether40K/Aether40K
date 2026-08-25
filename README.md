@@ -40,15 +40,15 @@
 <summary><b><img src="https://api.iconify.design/lucide:terminal.svg?color=%23b91c1c" width="16" height="16" valign="middle"/> Languages</b></summary>
 <br>
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white"/>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white"/></a>
 </p>
 </details>
 
@@ -56,13 +56,13 @@
 <summary><b><img src="https://api.iconify.design/lucide:boxes.svg?color=%23b91c1c" width="16" height="16" valign="middle"/> Frameworks & Libraries</b></summary>
 <br>
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white"/>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vue.js&amp;logoColor=4FC08D"/></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"/></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"/></a>
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white"/></a>
 </p>
 </details>
 
@@ -70,13 +70,13 @@
 <summary><b><img src="https://api.iconify.design/lucide:database.svg?color=%23b91c1c" width="16" height="16" valign="middle"/> Database & DevOps</b></summary>
 <br>
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&amp;logo=fedora&amp;logoColor=white"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white"/></a>
+<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&amp;logo=fedora&amp;logoColor=white"/></a>
 </p>
 </details>
 
@@ -84,12 +84,12 @@
 <summary><b><img src="https://api.iconify.design/lucide:palette.svg?color=%23b91c1c" width="16" height="16" valign="middle"/> Design & Productivity</b></summary>
 <br>
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&amp;logo=blender&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&amp;logo=wix&amp;logoColor=white"/>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white"/></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&amp;logo=adobe-photoshop&amp;logoColor=white"/></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&amp;logo=blender&amp;logoColor=white"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white"/></a>
+<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white"/></a>
+<a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&amp;logo=wix&amp;logoColor=white"/></a>
 </p>
 </details>
 
@@ -98,12 +98,12 @@
 ## <img src="https://api.iconify.design/lucide:share-2.svg?color=%23b91c1c" width="22" height="22" valign="middle"/> Connect With Me
 
 <p align="center">
-<a href="https://www.github.com/Aether40K" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
-<a href="https://discord.com/users/orion_i22" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a>
-<a href="https://www.facebook.com/mr.dolasak" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/></a>
-<a href="https://www.instagram.com/mr.dolasak/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
-<a href="https://www.youtube.com/@user-orion122" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/></a>
-<a href="https://www.twitch.tv/orionch122" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white"/></a>
+<a href="https://www.github.com/Aether40K" target="_blank"><a href="https://www.github.com/Aether40K" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a></a>
+<a href="https://discord.com/users/orion_i22" target="_blank"><a href="https://discord.com/users/orion_i22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a></a>
+<a href="https://www.facebook.com/mr.dolasak" target="_blank"><a href="https://www.facebook.com/mr.dolasak" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"/></a></a>
+<a href="https://www.instagram.com/mr.dolasak/" target="_blank"><a href="https://www.instagram.com/mr.dolasak/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a></a>
+<a href="https://www.youtube.com/@user-orion122" target="_blank"><a href="https://www.youtube.com/@user-orion122" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/></a></a>
+<a href="https://www.twitch.tv/orionch122" target="_blank"><a href="https://www.twitch.tv/orionch122" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white"/></a></a>
 </p>
 
 ---
