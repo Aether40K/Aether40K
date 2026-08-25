@@ -12,25 +12,18 @@
 
 ---
 
-<table align="center">
-<tr>
-<td align="left" width="50%">
+<div align="center">
 
 ### <img src="https://api.iconify.design/lucide:user.svg?color=%23b91c1c" width="18" height="18" valign="middle"/> About Me
 
-- <img src="https://api.iconify.design/lucide:map-pin.svg?color=%23b91c1c" width="14" height="14" valign="middle"/> **Bangkok**, Thailand
-- <img src="https://api.iconify.design/lucide:mail.svg?color=%23b91c1c" width="14" height="14" valign="middle"/> [orionch2115@gmail.com](mailto:orionch2115@gmail.com)
-- <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23b91c1c" width="14" height="14" valign="middle"/> Exploring **TypeScript**, **Cloud & DevOps**
-- <img src="https://api.iconify.design/lucide:zap.svg?color=%23b91c1c" width="14" height="14" valign="middle"/> Passionate about **Web** & **Creative Tech**
+| | |
+|:---:|:---|
+| <img src="https://api.iconify.design/lucide:map-pin.svg?color=%23b91c1c" width="16" height="16"/> | **Bangkok**, Thailand |
+| <img src="https://api.iconify.design/lucide:mail.svg?color=%23b91c1c" width="16" height="16"/> | [orionch2115@gmail.com](mailto:orionch2115@gmail.com) |
+| <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23b91c1c" width="16" height="16"/> | Exploring **TypeScript**, **Cloud & DevOps** |
+| <img src="https://api.iconify.design/lucide:zap.svg?color=%23b91c1c" width="16" height="16"/> | Passionate about **Web** & **Creative Tech** |
 
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aether40K&amp;theme=github_dark" alt="Productive Time" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -115,9 +108,12 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aether40K&amp;theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aether40K&amp;theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aether40K&amp;theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aether40K&amp;theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aether40K&amp;theme=github_dark" width="48%"/>
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aether40K&amp;theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aether40K&amp;theme=github_dark" width="48%"/>
 </p>
 
 <p align="center">
