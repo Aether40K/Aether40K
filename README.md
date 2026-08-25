@@ -78,11 +78,12 @@
 
 ## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23b91c1c" width="22" height="22" alt="stats" valign="middle"/> GitHub Stats
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aether40K&show_icons=true&count_private=true&title_color=b91c1c&text_color=c9d1d9&icon_color=b91c1c&bg_color=0d1117&hide_border=true" alt="Aether40K's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aether40K&layout=compact&langs_count=8&title_color=b91c1c&text_color=c9d1d9&icon_color=b91c1c&bg_color=0d1117&hide_border=true" alt="Top Languages"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aether40K&theme=github_dark" alt="Profile Details" width="100%"/>
 </p>
 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=Aether40K&stroke=0d1117&background=0d1117&ring=b91c1c&fire=b91c1c&currStreakNum=c9d1d9&currStreakLabel=b91c1c&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aether40K&theme=github_dark" alt="Stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aether40K&theme=github_dark" alt="Repos Per Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aether40K&theme=github_dark" alt="Most Commit Language" width="32%"/>
 </p>
